@@ -1,10 +1,1 @@
-self.__uv$config = {
-  prefix: "/a/",
-  bare: "/ca/",
-  encodeUrl: Ultraviolet.codec.xor.encode,
-  decodeUrl: Ultraviolet.codec.xor.decode,
-  handler: "/assets/mathematics/handler.js?v=9-30-2024",
-  bundle: "/assets/mathematics/bundle.js?v=9-30-2024",
-  config: "/assets/mathematics/config.js?v=9-30-2024",
-  sw: "/assets/mathematics/sw.js?v=9-30-2024",
-};
+c2VsZi5fX3V2JGNvbmZpZyA9IHsKICBwcmVmaXg6ICIvYS8iLAogIGJhcmU6ICIvY2EvIiwKICBlbmNvZGVVcmw6IFVsdHJhdmlvbGV0LmNvZGVjLnhvci5lbmNvZGUsCiAgZGVjb2RlVXJsOiBVbHRyYXZpb2xldC5jb2RlYy54b3IuZGVjb2RlLAogIGhhbmRsZXI6ICIvYXNzZXRzL21hdGhlbWF0aWNzL2hhbmRsZXIuanM/dj05LTMwLTIwMjQiLAogIGJ1bmRsZTogIi9hc3NldHMvbWF0aGVtYXRpY3MvYnVuZGxlLmpzP3Y9OS0zMC0yMDI0IiwKICBjb25maWc6ICIvYXNzZXRzL21hdGhlbWF0aWNzL2NvbmZpZy5qcz92PTktMzAtMjAyNCIsCiAgc3c6ICIvYXNzZXRzL21hdGhlbWF0aWNzL3N3LmpzP3Y9OS0zMC0yMDI0IiwKfTsK
