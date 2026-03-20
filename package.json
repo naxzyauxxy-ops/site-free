@@ -1,14 +1,1 @@
-{
-  "name": "void-hub",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "@nebula-services/bare-server-node": "^2.0.4",
-    "express": "^4.18.2",
-    "ws": "^8.18.0"
-  }
-}
+ewogICJuYW1lIjogInZvaWQtaHViIiwKICAidmVyc2lvbiI6ICIxLjAuMCIsCiAgInR5cGUiOiAibW9kdWxlIiwKICAibWFpbiI6ICJzZXJ2ZXIuanMiLAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogIm5vZGUgc2VydmVyLmpzIgogIH0sCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJAbmVidWxhLXNlcnZpY2VzL2JhcmUtc2VydmVyLW5vZGUiOiAiXjIuMC40IiwKICAgICJleHByZXNzIjogIl40LjE4LjIiLAogICAgIndzIjogIl44LjE4LjAiCiAgfQp9
